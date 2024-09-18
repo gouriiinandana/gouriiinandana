@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Unique projects and Cybersecurity related projects**
 
-- 💬 Ask me about **Cybersecurity , HTML , CSS , Javascript , React and Flutter**
+- 💬 Ask me about **Cybersecurity , HTML , CSS , Javascript and Flutter**
 
 - 📫 How to reach me **nandanagouri47@gmail.com**
 
