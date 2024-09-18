@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Gouri Nandana</h1>
-<h3 align="center">Cyber Enthusiast | Android App | Programmer</h3>
+<h3 align="center">Cyber Enthusiast | Android App Developer| Programmer</h3>
 
 - 🌱 I’m currently learning **Flutter**
 
