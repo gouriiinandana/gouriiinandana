@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Gouri Nandana</h1>
 <h3 align="center">Cyber Enthusiast | Programmer</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Project Management**
 
 - 👯 I’m looking to collaborate on **Unique projects and Cybersecurity related projects**
 
