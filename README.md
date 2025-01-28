@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Gouri Nandana</h1>
-<h3 align="center">Cyber Enthusiast | Programmer</h3>
+<h3 align="center">Cyber Enthusiast | Programmer | Project Coordinator </h3>
 
 - 🌱 I’m currently learning **Project Management**
 
