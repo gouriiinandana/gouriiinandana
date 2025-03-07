@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Project Management**
 
-- 👯 I’m looking to collaborate on **Unique projects and Cybersecurity related projects**
+- 👯 I’m looking to collaborate on **Unique projects , Data Science and Cybersecurity related projects**
 
 - 💬 Ask me about **Cybersecurity , HTML , CSS , Javascript and Python**
 
