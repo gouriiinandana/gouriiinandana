@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Unique projects , Data Science and Cybersecurity related projects**
 
-- 💬 Ask me about **Cybersecurity , HTML , CSS , Javascript and Python**
-
 - 📫 How to reach me **nandanagouri47@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/17KjHVShMpOu8c5gwCj4wSikwBlBgxozI/view?usp=drive_link](https://drive.google.com/file/d/17KjHVShMpOu8c5gwCj4wSikwBlBgxozI/view?usp=drive_link)
