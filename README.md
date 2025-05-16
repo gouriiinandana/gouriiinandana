@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nandanagouri47@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17KjHVShMpOu8c5gwCj4wSikwBlBgxozI/view?usp=drive_link](https://drive.google.com/file/d/17KjHVShMpOu8c5gwCj4wSikwBlBgxozI/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1mTJdAetp9iDyM13w0eTj79VxeDL3PWjy/view?usp=sharing]
 
 - ⚡ Fun fact **I think i am funny**
 
